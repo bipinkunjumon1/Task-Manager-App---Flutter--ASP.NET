@@ -1,0 +1,17 @@
+# Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.idea/
+frontend/.packages
+
+# ASP.NET
+backend/bin/
+backend/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Others
+*.log
